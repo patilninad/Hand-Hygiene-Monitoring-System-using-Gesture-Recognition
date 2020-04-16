@@ -4,7 +4,5 @@ There are 8 steps recommended by WHO to maintain proper hygiene of hands.These 8
 ![](https://github.com/patilninad/Hand-Hygiene-Monitoring-System-using-Gesture-Recognition/blob/master/washing_hands_photos.jpg)  
 In this project, we present a hand wash monitoring and reminder system that monitors hand hygiene by checking each and every step using gesture recognition and provides real time feedback,if any step is not done properly. Aim is to develop a working product that can differentiate hand wash gestures from other gestures with an high accuracy.Product must be robust, scalable, and easy to install, and it over‐comes most of the problems of existing related systems.   
 Image processing along with deep learning is used to train the a neural network model on the 8 steps.
-# Choosing Scenario:  
-![](https://github.com/MyProjects180/Handwash-Compliance-Monitoring/blob/master/Images%20For%20Reference/Choosing%20Scenario.JPG)
 In the same way 8 steps of hand hygiene were trained.This project is under training stage currently.  
 The current epidemic of the novel Covid-19 makes it essential for everyone to wash there hands properly as shown in the image above. 
