@@ -6,9 +6,5 @@ In this project, we present a hand wash monitoring and reminder system that moni
 Image processing along with deep learning is used to train the a neural network model on the 8 steps.
 # Choosing Scenario:  
 ![](https://github.com/MyProjects180/Handwash-Compliance-Monitoring/blob/master/Images%20For%20Reference/Choosing%20Scenario.JPG)
-# Step 1:  
-![](https://github.com/MyProjects180/Handwash-Compliance-Monitoring/blob/master/Images%20For%20Reference/Result%201.JPG)  
-# Step 2:
-![](https://github.com/MyProjects180/Handwash-Compliance-Monitoring/blob/master/Images%20For%20Reference/Result%202.JPG)  
 In the same way 8 steps of hand hygiene were trained.This project is under training stage currently.  
 The current epidemic of the novel Covid-19 makes it essential for everyone to wash there hands properly as shown in the image above. 
