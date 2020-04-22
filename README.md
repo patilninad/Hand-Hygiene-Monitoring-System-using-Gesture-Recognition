@@ -10,9 +10,8 @@ We are thinking about how we can implement a 20 second timer.The system will mon
 We are also using NVIDIA DIGITS web based API as an alternative approach for training along with the standard way of training.  
 I had previously worked on NVIDIA DIGITS for a different task based on ConvNet training.  
 # Here is the GITHUB link of my project:  
-
 How to install NVIDIA DIGITS:  
 https://github.com/patilninad/DIGITS  
 
-# Project:  
+Project:  
 https://github.com/patilninad/Training
