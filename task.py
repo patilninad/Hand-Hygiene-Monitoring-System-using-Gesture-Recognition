@@ -26,8 +26,8 @@ class VideoCamera(object):
         if prediction == self.index:
             if self.index != 5:
                 self.check[self.index] += 1
-                self.message = 'Perform step: ' + str(self.index + 1)
-                if(self.check[self.index]>1):
+                if(self.check[self.index]>50):
+                    self.message = 'Perform step: ' + str(self.index + 1)
                     self.index += 1
             else:
                 self.message = 'All steps correctly followed'
