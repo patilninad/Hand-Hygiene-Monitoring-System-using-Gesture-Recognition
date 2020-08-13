@@ -24,13 +24,16 @@ class VideoCamera(object):
         prediction = np.argmax(pred[0], axis=0) 
         print(prediction)
         if prediction == self.index:
-            if self.index != 5:
+            if self.index != 6:
                 self.check[self.index] += 1
                 if(self.check[self.index]>50):
                     self.message = 'Perform step: ' + str(self.index + 1)
                     self.index += 1
-            else:
-                self.message = 'All steps correctly followed'
+                    if self.index == 6:
+                        self.message = 'All steps correctly followed'
+
+            # else:
+            #     self.message = 'All steps correctly followed'
 
         # return prediction
         cv2.putText(image, self.message, (10,50), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (223, 223, 0), 2)
