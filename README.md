@@ -13,5 +13,4 @@ I had previously worked on NVIDIA DIGITS for a different task based on ConvNet t
 How to install NVIDIA DIGITS:  
 https://github.com/patilninad/DIGITS  
 
-Project:  
-https://github.com/patilninad/Training
+
